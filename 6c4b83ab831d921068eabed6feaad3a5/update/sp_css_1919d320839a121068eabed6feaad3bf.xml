@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>&lt;!DOCTYPE html&gt;&#13;
+&lt;html lang="en"&gt;&#13;
+&lt;head&gt;&#13;
+&lt;title&gt;CSS Template&lt;/title&gt;&#13;
+&lt;meta charset="utf-8"&gt;&#13;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;&#13;
+&lt;style&gt;&#13;
+* {&#13;
+  box-sizing: border-box;&#13;
+}&#13;
+&#13;
+body {&#13;
+  margin: 0;&#13;
+  font-family: Arial, Helvetica, sans-serif;&#13;
+}&#13;
+&#13;
+/* Style the side navigation */&#13;
+.sidenav {&#13;
+  height: 100%;&#13;
+  width: 200px;&#13;
+  position: fixed;&#13;
+  z-index: 1;&#13;
+  top: 0;&#13;
+  left: 0;&#13;
+  background-color: #111;&#13;
+  overflow-x: hidden;&#13;
+}&#13;
+&#13;
+&#13;
+/* Side navigation links */&#13;
+.sidenav a {&#13;
+  color: white;&#13;
+  padding: 16px;&#13;
+  text-decoration: none;&#13;
+  display: block;&#13;
+}&#13;
+&#13;
+/* Change color on hover */&#13;
+.sidenav a:hover {&#13;
+  background-color: #ddd;&#13;
+  color: black;&#13;
+}&#13;
+&#13;
+/* Style the content */&#13;
+.content {&#13;
+  margin-left: 200px;&#13;
+  padding-left: 20px;&#13;
+}&#13;
+&lt;/style&gt;&#13;
+&lt;/head&gt;&#13;
+&lt;body&gt;&#13;
+&#13;
+&lt;div class="sidenav"&gt;&#13;
+  &lt;a href="#"&gt;Link&lt;/a&gt;&#13;
+  &lt;a href="#"&gt;Link&lt;/a&gt;&#13;
+  &lt;a href="#"&gt;Link&lt;/a&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;div class="content"&gt;&#13;
+  &lt;h2&gt;CSS Template&lt;/h2&gt;&#13;
+  &lt;p&gt;A full-height, fixed sidenav and content.&lt;/p&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;/body&gt;&#13;
+&lt;/html&gt;&#13;
+&#13;
+</css>
+        <name>lva_sp_css</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 02:06:03</sys_created_on>
+        <sys_id>1919d320839a121068eabed6feaad3bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lva_sp_css</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_css_1919d320839a121068eabed6feaad3bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 02:06:03</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_css>
+</record_update>

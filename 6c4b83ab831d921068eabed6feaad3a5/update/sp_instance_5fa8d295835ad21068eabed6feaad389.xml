@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">79f9ce95831ad21068eabed6feaad358</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 05:19:34</sys_created_on>
+        <sys_id>5fa8d295835ad21068eabed6feaad389</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_instance_5fa8d295835ad21068eabed6feaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 16:10:35</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p style=\"text-align: center;\"><a title=\"Connect with Loaner Vehicle team members around the world\" href=\"https://www.servicenow.com/community/\"><img style=\"padding-top: 10px; max-width: 50%; max-height: 80px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /></a></p>\r\n<h3 style=\"text-align: center; color: #3071a9;\">Join Our Community</h3>\r\n<p style=\"text-align: center;\">Ask your colleagues a question</p>",
+		"displayValue": "<p style=\"text-align: center;\"><a title=\"Connect with Loaner Vehicle team members around the world\" href=\"https://www.servicenow.com/community/\"><img style=\"padding-top: 10px; max-width: 50%; max-height: 80px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /></a></p>\n<h3 style=\"text-align: center; color: #3071a9;\">Join Our Community</h3>\n<p style=\"text-align: center;\">Ask your colleagues a question</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5fa8d295835ad21068eabed6feaad389"/>
+</record_update>

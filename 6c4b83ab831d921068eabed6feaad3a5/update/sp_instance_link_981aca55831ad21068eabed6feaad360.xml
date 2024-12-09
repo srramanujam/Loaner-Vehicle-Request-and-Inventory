@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>briefcase</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse the Vehicle Catalog for services</short_description>
+        <size>md</size>
+        <sp_column display_value="1">39f9ce95831ad21068eabed6feaad354</sp_column>
+        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 04:15:45</sys_created_on>
+        <sys_id>981aca55831ad21068eabed6feaad360</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Request Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_instance_link_981aca55831ad21068eabed6feaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 16:00:48</sys_updated_on>
+        <title>Request Vehicle</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=981aca55831ad21068eabed6feaad360"/>
+</record_update>

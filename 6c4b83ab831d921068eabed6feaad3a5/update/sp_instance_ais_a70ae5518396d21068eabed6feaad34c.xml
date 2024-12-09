@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a3f625118396d21068eabed6feaad37f</sp_column>
+        <sp_widget display_value="Loaner Vehicle Homepage">e339ad518396d21068eabed6feaad36b</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 01:55:53</sys_created_on>
+        <sys_id>a70ae5518396d21068eabed6feaad34c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Welcome !</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_instance_ais_a70ae5518396d21068eabed6feaad34c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 01:58:34</sys_updated_on>
+        <title>Welcome !</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="delete_multiple" query="documentkey=a70ae5518396d21068eabed6feaad34c"/>
+</record_update>

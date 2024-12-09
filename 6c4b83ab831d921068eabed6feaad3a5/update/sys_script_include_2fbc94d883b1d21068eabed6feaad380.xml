@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1428369_lva.getUserlocationInfo</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>getUserlocationInfo</name>
+        <script><![CDATA[var getUserlocationInfo = Class.create();
+getUserlocationInfo.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    GetLocation: function() {
+
+       gs.info("Am in script include");
+        var locatn = '';
+        var userId = this.getParameter('sysparm_user_id');
+        gs.info('user id - ' + userId);
+
+        var gr = new GlideRecord('sys_user');
+        gr.addQuery('sys_id', userId);
+        gr.query();
+
+        if (gr.next()) {
+            locatn = gr.getValue('location'); // location is the name taken from Location field of User table form.
+            gs.info('In GetLocation Function - ' + locatn); // Debugging           
+        }
+        return locatn;
+
+    },
+    type: 'getUserlocationInfo'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 21:50:08</sys_created_on>
+        <sys_id>2fbc94d883b1d21068eabed6feaad380</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>getUserlocationInfo</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sys_script_include_2fbc94d883b1d21068eabed6feaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-07 23:36:38</sys_updated_on>
+    </sys_script_include>
+</record_update>

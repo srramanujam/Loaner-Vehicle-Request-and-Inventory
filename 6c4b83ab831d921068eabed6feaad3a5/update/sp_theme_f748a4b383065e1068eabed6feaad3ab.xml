@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <footer display_value="Copy of LegalFooter">b2992c3783065e1068eabed6feaad3a3</footer>
+        <footer_fixed>true</footer_fixed>
+        <header/>
+        <name>Loaner Service Portal Lo Jolla Theme</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-30 05:19:10</sys_created_on>
+        <sys_id>f748a4b383065e1068eabed6feaad3ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Loaner Service Portal Lo Jolla Theme</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_theme_f748a4b383065e1068eabed6feaad3ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 02:11:45</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_theme>
+</record_update>

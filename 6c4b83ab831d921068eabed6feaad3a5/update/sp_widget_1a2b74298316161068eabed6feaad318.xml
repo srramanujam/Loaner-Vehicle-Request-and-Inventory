@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.whiteText {
+  color: white;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>quick_links_loaner</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Quick Links Loaner</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 17:09:28</sys_created_on>
+        <sys_id>1a2b74298316161068eabed6feaad318</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Quick Links Loaner</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_widget_1a2b74298316161068eabed6feaad318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 17:22:53</sys_updated_on>
+        <template><![CDATA[<div >
+  <div class="cdWidgetTitleBar">
+    <h3 text-align:center>Quick Links</h3>
+  </div>
+  <div class="cdWidgetContentArea">
+    <p><a class="btn btn-info whiteText" href="?id=loaner_dashboard">Loaner Dashboard</a></p>
+  </div>
+</div>]]></template>
+    </sp_widget>
+</record_update>
