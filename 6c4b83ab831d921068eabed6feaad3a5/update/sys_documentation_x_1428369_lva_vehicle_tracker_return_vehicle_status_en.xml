@@ -11,7 +11,6 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-30 00:02:02</sys_created_on>
-            <sys_id>cdc6bfa58361121068eabed6feaad365</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Return Vehicle Status</sys_name>
             <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>

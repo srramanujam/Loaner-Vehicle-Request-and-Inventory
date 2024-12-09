@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">79f9ce95831ad21068eabed6feaad358</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 05:17:28</sys_created_on>
+        <sys_id>18385255835ad21068eabed6feaad3aa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>sp_instance_18385255835ad21068eabed6feaad3aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 05:18:56</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p>&lt;p style=\"text-align: center;\"&gt;&lt;a title=\"Connect with Loaner Vehicle Maintenance team members around the world\" href=\"/community\"&gt;&lt;img style=\"max-width: 100%; max-height: 480px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /&gt;&lt;/a&gt;&lt;/p&gt;<br />&lt;h3 style=\"text-align: center;\"&gt;&lt;strong&gt;Join Our Community&lt;/strong&gt;&lt;/h3&gt;<br />&lt;p style=\"text-align: center;\"&gt;Ask your colleagues a question&lt;/p&gt;</p>",
+		"displayValue": "<p>&lt;p style=\"text-align: center;\"&gt;&lt;a title=\"Connect with Loaner Vehicle Maintenance team members around the world\" href=\"/community\"&gt;&lt;img style=\"max-width: 100%; max-height: 480px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /&gt;&lt;/a&gt;&lt;/p&gt;<br />&lt;h3 style=\"text-align: center;\"&gt;&lt;strong&gt;Join Our Community&lt;/strong&gt;&lt;/h3&gt;<br />&lt;p style=\"text-align: center;\"&gt;Ask your colleagues a question&lt;/p&gt;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=18385255835ad21068eabed6feaad3aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</application>
+        <file_path/>
+        <instance_id>b0e4ee8fdbcab5d0f697684e1396198f</instance_id>
+        <instance_name>dev195716</instance_name>
+        <name>sp_instance_18385255835ad21068eabed6feaad3aa</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;79f9ce95831ad21068eabed6feaad358&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-05 05:17:28&lt;/sys_created_on&gt;&lt;sys_id&gt;18385255835ad21068eabed6feaad3aa&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva"&gt;6c4b83ab831d921068eabed6feaad3a5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory"&gt;6c4b83ab831d921068eabed6feaad3a5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_18385255835ad21068eabed6feaad3aa&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-12-05 05:18:56&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&amp;lt;p style=\"text-align: center;\"&amp;gt;&amp;lt;a title=\"Connect with Loaner Vehicle Maintenance team members around the world\" href=\"/community\"&amp;gt;&amp;lt;img style=\"max-width: 100%; max-height: 480px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&lt;br /&gt;&amp;lt;h3 style=\"text-align: center;\"&amp;gt;&amp;lt;strong&amp;gt;Join Our Community&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;&lt;br /&gt;&amp;lt;p style=\"text-align: center;\"&amp;gt;Ask your colleagues a question&amp;lt;/p&amp;gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&amp;lt;p style=\"text-align: center;\"&amp;gt;&amp;lt;a title=\"Connect with Loaner Vehicle Maintenance team members around the world\" href=\"/community\"&amp;gt;&amp;lt;img style=\"max-width: 100%; max-height: 480px;\" src=\"sn_catalog_builder_bridge.png\" alt=\"\" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&lt;br /&gt;&amp;lt;h3 style=\"text-align: center;\"&amp;gt;&amp;lt;strong&amp;gt;Join Our Community&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;&lt;br /&gt;&amp;lt;p style=\"text-align: center;\"&amp;gt;Ask your colleagues a question&amp;lt;/p&amp;gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=18385255835ad21068eabed6feaad3aa"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2068741036</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0c5ec32383dd921068eabed6feaad31a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 05:18:56</sys_created_on>
+        <sys_id>4288da55835ad21068eabed6feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1939541c97c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 05:18:56</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>4a88da55c05ad2105244a76f6600dc9c</update_guid>
+        <update_guid_history>4a88da55c05ad2105244a76f6600dc9c:-2068741036,ec3852552f5ad2102a28fc5a865e65ab:1390037256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c6a89a55835ad21068eabed6feaad3a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 05:19:29</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0e61b73a4ecc4f84857f4609d4d80589</sys_id>
+        <sys_metadata>18385255835ad21068eabed6feaad3aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_scope_delete display_value="">1fa91d7bc34f4dd489d42c03ff9b8e59</sys_scope_delete>
+        <sys_update_name>sp_instance_18385255835ad21068eabed6feaad3aa</sys_update_name>
+        <sys_update_version display_value="sp_instance_18385255835ad21068eabed6feaad3aa">4288da55835ad21068eabed6feaad39d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 05:19:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

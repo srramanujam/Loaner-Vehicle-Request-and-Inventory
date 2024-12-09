@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy">
+    <m2m_sp_portal_taxonomy action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sp_portal display_value="Loaner Vehicle Maintenance">27de76e0831a121068eabed6feaad3d0</sp_portal>
+        <sys_class_name>m2m_sp_portal_taxonomy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 00:48:45</sys_created_on>
+        <sys_id>88ba19918356d21068eabed6feaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Maintenance.Employee</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_update_name>m2m_sp_portal_taxonomy_88ba19918356d21068eabed6feaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:48:45</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+    </m2m_sp_portal_taxonomy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</application>
+        <file_path/>
+        <instance_id>b0e4ee8fdbcab5d0f697684e1396198f</instance_id>
+        <instance_name>dev195716</instance_name>
+        <name>m2m_sp_portal_taxonomy_88ba19918356d21068eabed6feaad3c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_taxonomy"><m2m_sp_portal_taxonomy action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sp_portal display_value="Loaner Vehicle Maintenance">27de76e0831a121068eabed6feaad3d0</sp_portal><sys_class_name>m2m_sp_portal_taxonomy</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-05 00:48:45</sys_created_on><sys_id>88ba19918356d21068eabed6feaad3c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Vehicle Maintenance.Employee</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope><sys_update_name>m2m_sp_portal_taxonomy_88ba19918356d21068eabed6feaad3c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-05 00:48:45</sys_updated_on><taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy></m2m_sp_portal_taxonomy></record_update>]]></payload>
+        <payload_hash>-1655991684</payload_hash>
+        <record_name>Loaner Vehicle Maintenance.Employee</record_name>
+        <reverted_from/>
+        <source>0c5ec32383dd921068eabed6feaad31a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 00:48:45</sys_created_on>
+        <sys_id>48ba19918356d21068eabed6feaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193944a6aa30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:48:45</sys_updated_on>
+        <type>Portal Taxonomy</type>
+        <update_guid>8cba1991fb56d210960d13844fbaf6cb</update_guid>
+        <update_guid_history>8cba1991fb56d210960d13844fbaf6cb:-1655991684</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Vehicle Maintenance.Employee">07ea19918356d21068eabed6feaad35c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-05 00:49:46</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_taxonomy">m2m_sp_portal_taxonomy</sys_db_object>
+        <sys_id>4867dce394694da0b3dc94d5a908e3d1</sys_id>
+        <sys_metadata>88ba19918356d21068eabed6feaad3c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Maintenance.Employee</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
+        <sys_scope_delete display_value="">1fa91d7bc34f4dd489d42c03ff9b8e59</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_taxonomy_88ba19918356d21068eabed6feaad3c9</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_taxonomy_88ba19918356d21068eabed6feaad3c9">48ba19918356d21068eabed6feaad3cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-05 00:49:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,80 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="tracker_status" table="x_1428369_lva_vehicle_tracker" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="return_vehicle_status" table="x_1428369_lva_vehicle_tracker" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>tracker_status</element>
+            <element>return_vehicle_status</element>
             <name>x_1428369_lva_vehicle_tracker</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-29 23:38:13</sys_created_on>
-            <sys_id>9851fb618361121068eabed6feaad3a6</sys_id>
+            <sys_created_on>2024-10-30 00:04:30</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>tracker_status</sys_name>
+            <sys_name>return_vehicle_status</sys_name>
             <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1428369_lva">6c4b83ab831d921068eabed6feaad3a5</sys_package>
             <sys_policy/>
             <sys_scope display_value="Loaner Vehicle Request and Inventory">6c4b83ab831d921068eabed6feaad3a5</sys_scope>
-            <sys_update_name>sys_choice_x_1428369_lva_vehicle_tracker_tracker_status</sys_update_name>
+            <sys_update_name>sys_choice_x_1428369_lva_vehicle_tracker_return_vehicle_status</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-29 23:38:13</sys_updated_on>
+            <sys_updated_on>2024-10-30 00:04:30</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>tracker_status</element>
+            <element>return_vehicle_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Open</label>
+            <label>Returned in Good Condition</label>
             <language>en</language>
             <name>x_1428369_lva_vehicle_tracker</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-29 23:38:13</sys_created_on>
+            <sys_created_on>2024-10-30 00:04:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1451fb618361121068eabed6feaad3a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-29 23:38:13</sys_updated_on>
-            <value>Open</value>
+            <sys_updated_on>2024-10-30 00:04:30</sys_updated_on>
+            <value>Returned in Good Condition</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>tracker_status</element>
+            <element>return_vehicle_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed</label>
+            <label>Returned with Minor Issues</label>
             <language>en</language>
             <name>x_1428369_lva_vehicle_tracker</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-29 23:38:13</sys_created_on>
+            <sys_created_on>2024-10-30 00:04:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5c51fb618361121068eabed6feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-29 23:38:13</sys_updated_on>
-            <value>Closed</value>
+            <sys_updated_on>2024-10-30 00:04:30</sys_updated_on>
+            <value>Returned with Minor Issues</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>tracker_status</element>
+            <element>return_vehicle_status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Cancelled</label>
+            <label>Returned with Major Issues</label>
             <language>en</language>
             <name>x_1428369_lva_vehicle_tracker</name>
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-29 23:38:13</sys_created_on>
+            <sys_created_on>2024-10-30 00:04:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d851fb618361121068eabed6feaad3a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-29 23:38:13</sys_updated_on>
-            <value>Cancelled</value>
+            <sys_updated_on>2024-10-30 00:04:30</sys_updated_on>
+            <value>Returned with Major Issues</value>
         </sys_choice>
     </sys_choice>
 </record_update>
